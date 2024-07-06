@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/smuan/Downloads/nextjs-authentication-1715783788489/src/app/layout\":[\"static/media/4c285fdca692ea22-s.p.woff2\",\"static/media/eafabf029ad39a43-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
